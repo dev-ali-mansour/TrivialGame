@@ -28,7 +28,6 @@ public class Game {
                 }
 
                 random = random - number;
-                System.out.println("New Random: "+random);
             }
             System.out.println("Congrats. You beat the game!");
         } catch (Exception e) {
